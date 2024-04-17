@@ -50,7 +50,7 @@ location=string             |       location=string             |
 viewedProfile= Number       |       viewedProfile= Number       |
 imperessions= number        |       imperessions= number        | 
 occupation=string           |        occupation=string          | 
-friends =Array of objects           comments=Array of strings
+friends =Array of objects   |        comments=Array of strings  |
 
 
                     images path will be my string ref
